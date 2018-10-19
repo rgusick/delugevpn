@@ -4,4 +4,4 @@ MAINTAINER Robert Gusick "robert@gusick.com"
 
 RUN     pacman -S --needed --noconfirm \
         mailutils \
-        dma
+        postfix
