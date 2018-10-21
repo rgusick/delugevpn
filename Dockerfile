@@ -4,4 +4,4 @@ MAINTAINER Robert Gusick "robert@gusick.com"
 
 RUN     pacman -S --needed --noconfirm \
         ssmtp \
-        mailx
+        s-nail
